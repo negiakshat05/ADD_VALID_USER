@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sita.task1B</groupId>
-	<artifactId>ADD_VALID_USER </artifactId>
+	<artifactId>ADD_VALID_USER</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>file</name>
